@@ -1,0 +1,20 @@
+{% for member in data %}
+{% if member %}
+<li>
+    <div class="couple">
+        <a class="{{ member.gender }}" href="">{{ member.name }}</a>
+        {% if member.partner %}
+        <a class="{% if member.gender == 'male' %} female {% else %} male {% endif %}" href="/">
+            {{ member.partner }}
+        </a>
+        {% endif %}
+    </div>
+    
+    {% if member.children %}
+    <ul>
+        {% include 'child.html' with data=member.children %}
+    </ul>
+    {% endif %}
+</li>
+{% endif %}
+{% endfor %}
