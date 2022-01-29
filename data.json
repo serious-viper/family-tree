@@ -1,91 +1,265 @@
 {
     "members": [
         {
-            "name": "Ramachandra",
-            "gender": "male",
-            "partner": "Mahadevi",
-            "children": [
+            "name":"Narayana",
+            "gender":"male",
+            "partner":"Manjamma",
+            "children":[
                 {
-                    "name": "Ashok",
+                    "name": "Ramachandra",
                     "gender": "male",
-                    "partner": "Savita",
+                    "partner": "Mahadevi",
                     "children": [
                         {
-                            "name": "Amruta",
-                            "gender": "female"
+                            "name": "Ashok",
+                            "gender": "male",
+                            "partner": "Savita",
+                            "children": [
+                                {
+                                    "name": "Amruta",
+                                    "gender": "female"
+                                },
+                                {
+                                    "name": "Bharat",
+                                    "gender": "male"
+                                }
+                            ]
                         },
                         {
-                            "name": "Bharat",
-                            "gender": "male"
+                            "name": "Jeetendra",
+                            "gender": "male",
+                            "partner": "Sangeeta",
+                            "children": [
+                                {
+                                    "name": "Harsha",
+                                    "gender": "male"
+                                },
+                                {
+                                    "name": "Harshita",
+                                    "gender": "female"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Bharati",
+                            "gender": "female",
+                            "partner": "Vishnu",
+                            "children": [
+                                {
+                                    "name": "Pavitra",
+                                    "gender": "female"
+                                },
+                                {
+                                    "name": "Praveen",
+                                    "gender": "male"
+                                },
+                                {
+                                    "name": "Prathvij",
+                                    "gender": "male"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Arathi",
+                            "gender": "female",
+                            "partner": "Harihara",
+                            "children": [
+                                {
+                                    "name": "Yateen",
+                                    "gender": "male"
+                                },
+                                {
+                                    "name": "Naveen",
+                                    "gender": "male"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Pushpa",
+                            "gender": "female",
+                            "partner": "Manjunath",
+                            "children": [
+                                {
+                                    "name": "Mandara",
+                                    "gender": "female"
+        
+                                },
+                                {
+                                    "name": "Pranav",
+                                    "gender": "male"
+                                }
+                            ]
                         }
                     ]
                 },
                 {
-                    "name": "Jeetendra",
-                    "gender": "male",
-                    "partner": "Sangeeta",
-                    "children": [
+                    "name":"Govinda",
+                    "gender":"male",
+                    "partner":"Mahalaxmi",
+                    "children":[
                         {
-                            "name": "Harsha",
-                            "gender": "male"
+                            "name":"Ramanath",
+                            "gender":"male"
                         },
                         {
-                            "name": "Harshita",
-                            "gender": "female"
+                            "name":"Chandrakala",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Sumana",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Kalavathi",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Ammakka",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Madhevi",
+                            "gender":"female"
                         }
                     ]
                 },
                 {
-                    "name": "Bharati",
-                    "gender": "female",
-                    "partner": "Vishnu",
-                    "children": [
+                    "name":"Choodamani",
+                    "gender":"male",
+                    "partner":"Lakshmi",
+                    "children":[
                         {
-                            "name": "Pavitra",
-                            "gender": "female"
+                            "name":"Saraswati",
+                            "gender":"female"
                         },
                         {
-                            "name": "Praveen",
-                            "gender": "male"
+                            "name":"Neelavathi",
+                            "gender":"female"
                         },
                         {
-                            "name": "Prathvij",
-                            "gender": "male"
+                            "name":"Damodara",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Malini",
+                            "gender":"female"
                         }
                     ]
                 },
                 {
-                    "name": "Arathi",
-                    "gender": "female",
-                    "partner": "Harihara",
-                    "children": [
+                    "name":"Venkataramana",
+                    "gender":"male",
+                    "partner":"Mahadevi",
+                    "children":[
                         {
-                            "name": "Yateen",
-                            "gender": "male"
+                            "name":"Rama",
+                            "gender":"male"
                         },
                         {
-                            "name": "Naveen",
-                            "gender": "male"
+                            "name":"Parvathi",
+                            "gender":"female"
                         }
                     ]
                 },
                 {
-                    "name": "Pushpa",
-                    "gender": "female",
-                    "partner": "Manjunath",
-                    "children": [
+                    "name":"Devappa",
+                    "gender":"male",
+                    "partner":"Parvathi",
+                    "children":[
                         {
-                            "name": "Mandara",
-                            "gender": "female"
-
+                            "name":"Ramesh",
+                            "gender":"male"
                         },
                         {
-                            "name": "Pranav",
-                            "gender": "male"
+                            "name":"Shankara",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Umathi",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Baby",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Kalyani",
+                            "gender":"female"
+                        }
+                    ]
+                },
+                {
+                    "name":"Narayana",
+                    "gender":"male",
+                    "partner":"Yamuna",
+                    "children":[
+                        {
+                            "name":"Baby",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Manjunath",
+                            "gender":"male"
+                        }
+                    ]
+                },
+                {
+                    "name":"Nagappa",
+                    "gender":"male",
+                    "partner":" ",
+                    "children":[
+                        {
+                            "name":"Ganapathi",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Gopala",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Sateesh",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Mohini",
+                            "gender":"female"
+                        },
+                        {
+                            "name":"Geetha",
+                            "gender":"female"
+                        }
+                    ]
+                },
+                {
+                    "name":"Mohana",
+                    "gender":"male",
+                    "partner":"Durgi",
+                    "children":[
+                        {
+                            "name":"Raju",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Satyappa",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Kamalakara",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Shankara",
+                            "gender":"male"
+                        },
+                        {
+                            "name":"Shobha",
+                            "gender":"female"
                         }
                     ]
                 }
+                
             ]
         }
+        
     ]
 }
